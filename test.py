@@ -5,5 +5,6 @@ c = int(input('Введите число: \n'))
 print(a)
 print(b)
 print(c)
-
-
+print(a + b + c)
+print('Hellow!')
+print('Hellow!')

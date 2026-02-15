@@ -3,9 +3,11 @@ a1 = 4
 a = int(input('Введите число: \n'))
 b = int(input('Введите число: \n'))
 c = int(input('Введите число: \n'))
+d = int(input('Введите число: \n'))
 e = int(input('Введите число: \n'))
 
 print(a + b + c * 2 - e)
+print(a + b + c - d)
 print('Hellow!')
 print('Hellow!')
 print('Hellow word!')

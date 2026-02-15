@@ -1,1 +1,4 @@
 print('Hellow!')
+a = int(input('Введите число: \n'))
+b = int(input('Введите число: \n'))
+print(a)
